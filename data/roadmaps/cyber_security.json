@@ -1,0 +1,71 @@
+{
+  "title": "Cybersecurity Roadmap for B.Tech CSE",
+  "phases": [
+    {
+      "phase": "Foundation (Semester 1-2)",
+      "weeks": "16",
+      "points": [
+        "Networking Fundamentals",
+        "Operating Systems Basics",
+        "Programming: Python, C/C++",
+        "Basic Cryptography Concepts",
+        "Linux Command Line"
+      ]
+    },
+    {
+      "phase": "Core Security Concepts (Semester 3-4)",
+      "weeks": "16",
+      "points": [
+        "Network Security & Protocols",
+        "System Security & Hardening",
+        "Web Security Fundamentals",
+        "Cryptography & Encryption",
+        "Security Policies & Compliance"
+      ]
+    },
+    {
+      "phase": "Advanced Security (Semester 5-6)",
+      "weeks": "16",
+      "points": [
+        "Penetration Testing",
+        "Malware Analysis",
+        "Digital Forensics",
+        "Security Architecture",
+        "Cloud Security"
+      ]
+    },
+    {
+      "phase": "Specialization & Projects (Semester 7-8)",
+      "weeks": "16",
+      "points": [
+        "Choose Specialization: Offensive/Defensive Security",
+        "Security Operations Center (SOC)",
+        "Incident Response",
+        "Threat Intelligence",
+        "Capstone Security Project"
+      ]
+    },
+    {
+      "phase": "Practical Skills & Tools",
+      "weeks": "Ongoing",
+      "points": [
+        "Security Tools: Wireshark, Metasploit, Burp Suite",
+        "OS: Kali Linux, Parrot OS",
+        "Cloud Security: AWS Security, Azure Security",
+        "Container Security: Docker, Kubernetes",
+        "SIEM Tools: Splunk, ELK Stack"
+      ]
+    },
+    {
+      "phase": "Certifications & Resources",
+      "weeks": "Ongoing",
+      "points": [
+        "Certifications: CompTIA Security+, CEH, CISSP",
+        "Practice Platforms: TryHackMe, HackTheBox",
+        "CTF Competitions: CTFTime, picoCTF",
+        "Security Conferences: DEF CON, Black Hat",
+        "Blogs: Krebs on Security, Dark Reading"
+      ]
+    }
+  ]
+} 

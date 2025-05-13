@@ -1,0 +1,71 @@
+{
+  "title": "Web Development Roadmap for B.Tech CSE",
+  "phases": [
+    {
+      "phase": "Foundation (Semester 1-2)",
+      "weeks": "16",
+      "points": [
+        "HTML5 & CSS3 Fundamentals",
+        "JavaScript Basics & ES6+",
+        "Basic Computer Science: Data Structures, Algorithms",
+        "Version Control with Git & GitHub",
+        "Basic UI/UX Principles"
+      ]
+    },
+    {
+      "phase": "Frontend Development (Semester 3-4)",
+      "weeks": "16",
+      "points": [
+        "Advanced JavaScript & DOM Manipulation",
+        "Frontend Frameworks: React.js",
+        "State Management: Redux/Context API",
+        "Responsive Design & CSS Frameworks",
+        "Web Performance Optimization"
+      ]
+    },
+    {
+      "phase": "Backend Development (Semester 5-6)",
+      "weeks": "16",
+      "points": [
+        "Node.js & Express.js",
+        "Database Management: SQL & NoSQL",
+        "RESTful API Design",
+        "Authentication & Authorization",
+        "Server Deployment & Cloud Services"
+      ]
+    },
+    {
+      "phase": "Full Stack & Advanced Topics (Semester 7-8)",
+      "weeks": "16",
+      "points": [
+        "Full Stack Development Projects",
+        "Microservices Architecture",
+        "DevOps & CI/CD",
+        "Web Security & Best Practices",
+        "Real-time Applications with WebSocket"
+      ]
+    },
+    {
+      "phase": "Specialization Options",
+      "weeks": "Ongoing",
+      "points": [
+        "Frontend Specialization: React Native, Next.js",
+        "Backend Specialization: Python/Django, Java/Spring",
+        "DevOps Specialization: Docker, Kubernetes",
+        "Cloud Specialization: AWS, Azure, GCP",
+        "Mobile Development: React Native, Flutter"
+      ]
+    },
+    {
+      "phase": "Additional Resources",
+      "weeks": "Ongoing",
+      "points": [
+        "Online Platforms: Udemy, Coursera, freeCodeCamp",
+        "Documentation: MDN Web Docs, React Docs",
+        "Communities: Stack Overflow, GitHub",
+        "Practice: Frontend Mentor, CodePen",
+        "Blogs: CSS-Tricks, Dev.to, Medium"
+      ]
+    }
+  ]
+} 

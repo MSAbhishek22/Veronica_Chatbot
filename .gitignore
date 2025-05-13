@@ -7,7 +7,6 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -19,23 +18,28 @@ lib64/
 parts/
 sdist/
 var/
+wheels/
 *.egg-info/
 .installed.cfg
 *.egg
 
 # Virtual Environment
 venv/
+env/
 ENV/
-
-# Database
-*.db
-*.sqlite3
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+
+# Project specific
+*.db
+*.sqlite3
+*.log
+.env.local
+.env.*.local
 
 # OS
 .DS_Store

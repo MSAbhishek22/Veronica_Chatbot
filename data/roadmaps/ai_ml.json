@@ -1,0 +1,70 @@
+{
+    "title": "AI & Machine Learning Roadmap for B.Tech CSE",
+    "phases": [
+        {
+            "phase": "Foundation (Semester 1-2)",
+            "weeks": "16",
+            "points": [
+                "Mathematics: Linear Algebra, Calculus, Probability & Statistics",
+                "Programming Fundamentals: Python, Data Structures",
+                "Basic Computer Science: Algorithms, Database Concepts",
+                "Introduction to AI & ML concepts"
+            ]
+        },
+        {
+            "phase": "Core ML Concepts (Semester 3-4)",
+            "weeks": "16",
+            "points": [
+                "Supervised Learning: Linear/Logistic Regression, Decision Trees",
+                "Unsupervised Learning: Clustering, Dimensionality Reduction",
+                "Model Evaluation & Validation",
+                "Feature Engineering & Selection",
+                "Basic Deep Learning Concepts"
+            ]
+        },
+        {
+            "phase": "Advanced ML & Deep Learning (Semester 5-6)",
+            "weeks": "16",
+            "points": [
+                "Neural Networks & Deep Learning",
+                "CNN for Computer Vision",
+                "RNN & LSTM for NLP",
+                "Reinforcement Learning Basics",
+                "MLOps & Model Deployment"
+            ]
+        },
+        {
+            "phase": "Specialization & Projects (Semester 7-8)",
+            "weeks": "16",
+            "points": [
+                "Choose Specialization: Computer Vision, NLP, or RL",
+                "Advanced Topics: GANs, Transformers, BERT",
+                "Research Paper Reading & Implementation",
+                "Industry Projects & Internships",
+                "Capstone Project"
+            ]
+        },
+        {
+            "phase": "Practical Skills & Tools",
+            "weeks": "Ongoing",
+            "points": [
+                "Frameworks: TensorFlow, PyTorch, scikit-learn",
+                "Cloud Platforms: AWS, Google Cloud, Azure",
+                "Version Control: Git, GitHub",
+                "Data Processing: Pandas, NumPy",
+                "Visualization: Matplotlib, Seaborn"
+            ]
+        },
+        {
+            "phase": "Additional Resources",
+            "weeks": "Ongoing",
+            "points": [
+                "Online Courses: Coursera, edX, fast.ai",
+                "Competitions: Kaggle, Analytics Vidhya",
+                "Research Papers: arXiv, Papers with Code",
+                "Communities: Reddit r/MachineLearning, Stack Overflow",
+                "Blogs: Towards Data Science, Machine Learning Mastery"
+            ]
+        }
+    ]
+} 

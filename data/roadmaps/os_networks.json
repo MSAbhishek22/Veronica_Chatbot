@@ -1,0 +1,71 @@
+{
+    "title": "Operating Systems & Networks Roadmap for B.Tech CSE",
+    "phases": [
+        {
+            "phase": "Foundation (Semester 1-2)",
+            "weeks": "16",
+            "points": [
+                "Computer Organization & Architecture",
+                "Programming: C/C++, Assembly",
+                "Basic Data Structures",
+                "Digital Logic Design",
+                "Basic Networking Concepts"
+            ]
+        },
+        {
+            "phase": "Operating Systems (Semester 3-4)",
+            "weeks": "16",
+            "points": [
+                "Process Management & Scheduling",
+                "Memory Management",
+                "File Systems",
+                "I/O Systems",
+                "OS Security & Protection"
+            ]
+        },
+        {
+            "phase": "Computer Networks (Semester 5-6)",
+            "weeks": "16",
+            "points": [
+                "Network Protocols & Architecture",
+                "TCP/IP Protocol Suite",
+                "Network Security",
+                "Wireless Networks",
+                "Network Programming"
+            ]
+        },
+        {
+            "phase": "Advanced Topics (Semester 7-8)",
+            "weeks": "16",
+            "points": [
+                "Distributed Systems",
+                "Cloud Computing Basics",
+                "Network Administration",
+                "System Programming",
+                "Performance Tuning"
+            ]
+        },
+        {
+            "phase": "Practical Skills",
+            "weeks": "Ongoing",
+            "points": [
+                "Linux System Administration",
+                "Network Configuration & Troubleshooting",
+                "Security Tools: Wireshark, tcpdump",
+                "Virtualization: VMware, VirtualBox",
+                "Container Technologies: Docker"
+            ]
+        },
+        {
+            "phase": "Certifications & Resources",
+            "weeks": "Ongoing",
+            "points": [
+                "CompTIA A+, Network+",
+                "Cisco CCNA",
+                "Linux Certifications: LPIC, RHCE",
+                "Practice Labs: GNS3, Packet Tracer",
+                "Online Resources: NetworkLessons, Linux Academy"
+            ]
+        }
+    ]
+} 

@@ -1,0 +1,71 @@
+{
+  "title": "Cloud Computing Roadmap for B.Tech CSE",
+  "phases": [
+    {
+      "phase": "Foundation (Semester 1-2)",
+      "weeks": "16",
+      "points": [
+        "Networking Fundamentals",
+        "Operating Systems Basics",
+        "Programming: Python, Java",
+        "Database Concepts",
+        "Linux Administration"
+      ]
+    },
+    {
+      "phase": "Cloud Basics (Semester 3-4)",
+      "weeks": "16",
+      "points": [
+        "Cloud Computing Concepts",
+        "Virtualization Technologies",
+        "Container Basics: Docker",
+        "Cloud Service Models: IaaS, PaaS, SaaS",
+        "Basic Cloud Security"
+      ]
+    },
+    {
+      "phase": "Cloud Platforms (Semester 5-6)",
+      "weeks": "16",
+      "points": [
+        "AWS Core Services",
+        "Azure Fundamentals",
+        "Google Cloud Platform",
+        "Cloud Architecture Design",
+        "Serverless Computing"
+      ]
+    },
+    {
+      "phase": "Advanced Cloud (Semester 7-8)",
+      "weeks": "16",
+      "points": [
+        "Cloud Native Development",
+        "Microservices Architecture",
+        "DevOps & CI/CD",
+        "Cloud Security & Compliance",
+        "Cloud Migration Strategies"
+      ]
+    },
+    {
+      "phase": "Specialization Options",
+      "weeks": "Ongoing",
+      "points": [
+        "Cloud Architecture",
+        "Cloud Security",
+        "DevOps Engineering",
+        "Cloud Data Engineering",
+        "Serverless Development"
+      ]
+    },
+    {
+      "phase": "Certifications & Resources",
+      "weeks": "Ongoing",
+      "points": [
+        "AWS Certifications: Solutions Architect, Developer",
+        "Azure Certifications: AZ-900, AZ-104",
+        "Google Cloud Certifications",
+        "Practice: AWS Free Tier, Azure Free Account",
+        "Cloud Communities: AWS User Groups, Azure Meetups"
+      ]
+    }
+  ]
+} 

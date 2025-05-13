@@ -1,0 +1,71 @@
+{
+  "title": "Data Structures & Algorithms Roadmap for B.Tech CSE",
+  "phases": [
+    {
+      "phase": "Foundation (Semester 1-2)",
+      "weeks": "16",
+      "points": [
+        "Programming Fundamentals: C/C++/Python",
+        "Basic Data Structures: Arrays, Strings",
+        "Basic Algorithms: Searching, Sorting",
+        "Time & Space Complexity Analysis",
+        "Problem Solving Techniques"
+      ]
+    },
+    {
+      "phase": "Core DSA (Semester 3-4)",
+      "weeks": "16",
+      "points": [
+        "Linear Data Structures: Linked Lists, Stacks, Queues",
+        "Tree Data Structures: Binary Trees, BST",
+        "Graph Theory & Algorithms",
+        "Dynamic Programming Basics",
+        "Greedy Algorithms"
+      ]
+    },
+    {
+      "phase": "Advanced DSA (Semester 5-6)",
+      "weeks": "16",
+      "points": [
+        "Advanced Trees: AVL, Red-Black, B-Trees",
+        "Advanced Graph Algorithms",
+        "Advanced Dynamic Programming",
+        "String Algorithms",
+        "Advanced Sorting & Searching"
+      ]
+    },
+    {
+      "phase": "Competitive Programming (Semester 7-8)",
+      "weeks": "16",
+      "points": [
+        "Problem Solving Patterns",
+        "Algorithm Design Techniques",
+        "Competitive Programming Practice",
+        "Interview Preparation",
+        "Advanced Problem Solving"
+      ]
+    },
+    {
+      "phase": "Practical Applications",
+      "weeks": "Ongoing",
+      "points": [
+        "System Design & Architecture",
+        "Database Indexing & Optimization",
+        "Network Algorithms",
+        "Game Development Algorithms",
+        "Real-world Problem Solving"
+      ]
+    },
+    {
+      "phase": "Learning Resources",
+      "weeks": "Ongoing",
+      "points": [
+        "Online Judges: LeetCode, Codeforces, HackerRank",
+        "Books: CLRS, Algorithm Design Manual",
+        "Courses: Coursera, edX, Stanford Online",
+        "Practice: Daily Coding Problems",
+        "Communities: Codeforces, LeetCode Discuss"
+      ]
+    }
+  ]
+} 
